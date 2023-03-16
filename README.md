@@ -1,5 +1,4 @@
-# aplikasi-billing-wifi
-aplikasi ini untuk di kembangkan 
+# APLIKASI BILLING WIFI
 
 PANDUAN INSTALASI APLIKASI TAGIHAN INTERNET
 
